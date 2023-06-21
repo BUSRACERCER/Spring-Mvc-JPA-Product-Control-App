@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="tr" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Admin Login</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="STYLE.css">
+
+</head>
+<body>
+<section class="h-100 gradient-form" style="background-color: #eee;">
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-xl-10">
+                <div class="card rounded-3 text-black">
+                    <div class="row g-0">
+                        <div class="col-lg-6">
+                            <div class="card-body p-md-5 mx-md-4">
+
+                                <div class="text-center">
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNPffMFFrTAC4qQ-yHkvW3ZON091WzPLYkFg&usqp=CAU"
+                                         style="width: 185px;" alt="logo">
+                                    <h4 class="mt-1 mb-5 pb-1">We are Product Team</h4>
+                                </div>
+
+                                <form method="post" action="/userLogin" >
+                                    <p>Please login to your account</p>
+
+                                    <div class="form-outline mb-4">
+                                        <label for="exampleInputEmail1" class="form-label">Email address</label>
+                                        <input name="email" type="email" class="form-control" id="exampleInputEmail1"
+                                               aria-describedby="emailHelp">
+                                    </div>
+
+                                    <div class="form-outline mb-4">
+                                        <label for="exampleInputPassword1" class="form-label">Password</label>
+                                        <input name="password" type="password" class="form-control" id="exampleInputPassword1">
+                                    </div>
+
+                                    <div class="text-center pt-1 mb-5 pb-1">
+                                        <button style="border-bottom-right-radius: 10px;border-top-left-radius: 10px; background: yellowgreen" type="submit" class="btn btn-primary">Submit</button>
+
+                                        <a class="text-muted" href="#!">Forgot password?</a>
+                                    </div>
+
+                                    <div class="d-flex align-items-center justify-content-center pb-4">
+                                        <p class="mb-0 me-2">Don't have an account?</p>
+                                        <button style="background:#ecec0b" type="button" class="btn btn-outline-danger">Create new</button>
+                                    </div>
+
+                                </form>
+
+                            </div>
+                        </div>
+                        <div style="background:#a792ce" class="col-lg-6 d-flex align-items-center gradient-custom-2">
+                            <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+                                <h1 class="mb-4">We are more than just a company</h1>
+                                <h3 class="mb-4">Product control and safety is our business</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+</body>
+</html>
