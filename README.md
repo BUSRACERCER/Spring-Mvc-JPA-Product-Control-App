@@ -44,35 +44,35 @@ In this application, session cookie and encryption with GoogleTink are used.
 # Project Display Image
 
 <p>
-<a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+<a>
     <img src="PRODUCT CONTROL/LOGİN.png" style="max-width:100%;"> 
 </a>
-    <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/Useradd.png" style="max-width:100%;"> 
+    <a >
+    <img src="PRODUCT CONTROL/Useradd.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+       <a>
     <img src="PRODUCT CONTROL/product add.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/SEARCH.png" style="max-width:100%;"> 
+       <a>
+    <img src="PRODUCT CONTROL/search.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/product update.png" style="max-width:100%;"> 
+       <a >
+    <img src="PRODUCT CONTROL/product update.png" style="max-width:100%;"> 
 </a>
-         <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/ımage.png" style="max-width:100%;"> 
+         <a >
+    <img src="PRODUCT CONTROL/ımage.png" style="max-width:100%;"> 
 </a>
-         <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/user table.png" style="max-width:100%;"> 
+         <a >
+    <img src="PRODUCT CONTROL/user table.png" style="max-width:100%;"> 
 </a>
-         <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/update.png" style="max-width:100%;"> 
+         <a >
+    <img src="PRODUCT CONTROL/update.png" style="max-width:100%;"> 
 </a>
-         <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/ınfo.png" style="max-width:100%;"> 
+         <a >
+    <img src="PRODUCT CONTROL/ınfo.png" style="max-width:100%;"> 
 </a>
-         <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=""PRODUCT CONTROL/user.png" style="max-width:100%;"> 
+         <a>
+    <img src="PRODUCT CONTROL/user .png" style="max-width:100%;"> 
 </a>
     
 </p>
