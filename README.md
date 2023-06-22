@@ -15,12 +15,22 @@ JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the appli
 # Application Features:
 - [x] User Login
 - [x] User Add
-- [x] Note Listing
-- [x] Note Searching
-- [x] Note Update
-- [x] Note Delete
-- [x] Note Delete/Undo
+- [x] User Listing
+- [x] User Searching
+- [x] User Update
+- [x] User Delete
+- [x] User Delete/Undo
+- [x] User Info
+- [x] Product Add
+- [x] Product Listing
+- [x] Product Searching
+- [x] Product Update
+- [x] Product Delete
+- [x] Product Delete/Undo
+- [x] Product Image Add
+- [x] Product Image Listing
 - [x] User Logout  
+
 
 ## Project Note:
 ```
