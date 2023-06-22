@@ -68,11 +68,11 @@ In this application, session cookie and encryption with GoogleTink are used.
          <a >
     <img src="PRODUCT CONTROL/update.png" style="max-width:100%;"> 
 </a>
-         <a >
-    <img src="PRODUCT CONTROL/ınfo.png" style="max-width:100%;"> 
-</a>
          <a>
     <img src="PRODUCT CONTROL/user .png" style="max-width:100%;"> 
+</a>
+        <a >
+    <img src="PRODUCT CONTROL/ınfo.png" style="max-width:100%;"> 
 </a>
     
 </p>
