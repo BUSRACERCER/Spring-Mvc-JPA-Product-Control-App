@@ -1,6 +1,6 @@
 # Spring-Mvc-Product-Control-App
 <p> 
-After a consumer or a normal user loses the administrative control user login, it provides a dynamic service such as adding users and notes, deleting and updating their notes, and provides a dynamic service.
+It allows a business to interact with all relevant users by adding, deleting and updating users under administrator control. It is an application that enables the personnel to use the ability to upload, delete and list product information, product images, and product information as a dynamic service.
 
 JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the application.
 </p>
