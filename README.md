@@ -40,7 +40,7 @@ In this application, session cookie and encryption with GoogleTink are used.
 
 
 # Project Life Cycle
-<img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;">
+<img src="PRODUCT CONTROL/PRODUCT CONTROL FLOW CHART.png" style="max-width:100%;">
 
 # Project Display Image
 
